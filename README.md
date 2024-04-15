@@ -1,5 +1,5 @@
 # Aula-1-prog-1
-X= 312
+X= int(input("numero/n"))
 Xt = X
 Bin= ""
 while X != 0:
